@@ -1,0 +1,1222 @@
+[
+
+    {
+        "id": 1,
+        "gif": "",
+        "name": "Bicep Curl",
+        "instructions": ["Stand with feet shoulder-width apart holding a dumbbell in each hand.", "Curl the weights while contracting your biceps.", "Slowly lower the weights back to the starting position."],
+        "modified": "Hammer Curl",
+        "equipments": ["dumbbells"],
+        "focus": [
+            "biceps"
+        ],
+        "recommended_weight": "moderate",
+        "experience_level": "beginner"
+    },
+    {
+        "id": 2,
+        "gif": "",
+        "name": "Hammer Curl",
+        "instructions": ["Stand with feet shoulder-width apart holding a dumbbell in each hand with palms facing your torso.", "Curl the weights while keeping your palms facing each other.", "Slowly lower the weights back to the starting position."],
+        "modified": "Bicep Curl",
+        "equipments": ["dumbbells"],
+        "focus": [
+            "biceps",
+            "forearms"
+        ],
+        "recommended_weight": "moderate",
+        "experience_level": "beginner"
+    },
+    {
+        "id": 3,
+        "gif": "",
+        "name": "Tricep Dips",
+        "instructions": ["Position your hands shoulder-width apart on a bench or stable surface.", "Extend your legs out in front of you.", "Lower your body by bending your elbows until they are at a 90-degree angle.", "Push back up to the starting position."],
+        "modified": "Bench Dips",
+        "equipments": ["bench"],
+        "focus": [
+            "triceps"
+        ],
+        "recommended_weight": "bodyweight",
+        "experience_level": "beginner"
+    },
+    {
+        "id": 4,
+        "gif": "",
+        "name": "Skull Crushers",
+        "instructions": ["Lie on a bench with a barbell or EZ curl bar.", "Extend your arms straight up.", "Lower the bar towards your forehead by bending your elbows.", "Extend your arms back to the starting position."],
+        "modified": "Tricep Extensions",
+        "equipments": ["barbell or EZ curl bar", "bench"],
+        "focus": [
+            "triceps"
+        ],
+        "recommended_weight": "moderate",
+        "experience_level": "intermediate"
+    },
+    {
+        "id": 5,
+        "gif": "",
+        "name": "Tricep Extensions",
+        "instructions": ["Stand with feet shoulder-width apart holding a dumbbell with both hands above your head.", "Lower the dumbbell behind your head by bending your elbows.", "Extend your arms back to the starting position."],
+        "modified": "Skull Crushers",
+        "equipments": ["dumbbell"],
+        "focus": [
+            "triceps"
+        ],
+        "recommended_weight": "moderate",
+        "experience_level": "beginner"
+    },
+    {
+        "id": 6,
+        "gif": "",
+        "name": "Preacher Curl",
+        "instructions": ["Sit on a preacher bench with your upper arms resting on the pad.", "Hold a barbell or EZ curl bar with an underhand grip.", "Curl the weight towards your shoulders.", "Lower the weight back to the starting position."],
+        "modified": "Bicep Curl",
+        "equipments": ["preacher bench", "barbell or EZ curl bar"],
+        "focus": [
+            "biceps"
+        ],
+        "recommended_weight": "moderate",
+        "experience_level": "intermediate"
+    },
+    {
+        "id": 7,
+        "gif": "",
+        "name": "Concentration Curl",
+        "instructions": ["Sit on a bench with your legs spread.", "Hold a dumbbell in one hand and rest your elbow on the inside of your thigh.", "Curl the weight towards your shoulder.", "Lower the weight back to the starting position."],
+        "modified": "Bicep Curl",
+        "equipments": ["dumbbell", "bench"],
+        "focus": [
+            "biceps"
+        ],
+        "recommended_weight": "moderate",
+        "experience_level": "beginner"
+    },
+    {
+        "id": 8,
+        "gif": "",
+        "name": "Cable Tricep Pushdown",
+        "instructions": ["Stand facing a cable machine with a rope or straight bar attachment.", "Grab the attachment with an overhand grip.", "Push the attachment down until your arms are fully extended.", "Slowly return to the starting position."],
+        "modified": "Tricep Extensions",
+        "equipments": ["cable machine", "rope or straight bar attachment"],
+        "focus":[        "triceps"
+    ],
+    "recommended_weight": "moderate",
+    "experience_level": "beginner"
+},
+{
+    "id": 9,
+    "gif": "",
+    "name": "Reverse Curl",
+    "instructions": ["Stand with feet shoulder-width apart holding a barbell with an overhand grip.", "Curl the weight towards your shoulders.", "Slowly lower the weight back to the starting position."],
+    "modified": "Bicep Curl",
+    "equipments": ["barbell"],
+    "focus": [
+        "biceps",
+        "forearms"
+    ],
+    "recommended_weight": "moderate",
+    "experience_level": "beginner"
+},
+{
+    "id": 10,
+    "gif": "",
+    "name": "Overhead Cable Curl",
+    "instructions": ["Stand in the middle of a cable machine with handles attached to the upper pulleys.", "Hold the handles with an underhand grip and extend your arms out to the sides.", "Curl the handles towards your head, then slowly return to the starting position."],
+    "modified": "Bicep Curl",
+    "equipments": ["cable machine", "handles"],
+    "focus": [
+        "biceps"
+    ],
+    "recommended_weight": "light to moderate",
+    "experience_level": "intermediate"
+},
+{
+    "id": 11,
+    "gif": "",
+    "name": "Close-Grip Bench Press",
+    "instructions": ["Lie on a bench with feet flat on the ground.", "Hold a barbell with a grip narrower than shoulder-width.", "Lower the barbell to your chest, then push it back up to the starting position."],
+    "modified": "Bench Press",
+    "equipments": ["barbell", "weight plates", "bench"],
+    "focus": [
+        "triceps",
+        "chest"
+    ],
+    "recommended_weight": "heavy",
+    "experience_level": "intermediate"
+},
+{
+    "id": 12,
+    "gif": "",
+    "name": "EZ Bar Curl",
+    "instructions": ["Stand with feet shoulder-width apart holding an EZ bar with an underhand grip.", "Curl the bar towards your shoulders.", "Slowly lower the bar back to the starting position."],
+    "modified": "Bicep Curl",
+    "equipments": ["EZ bar"],
+    "focus": [
+        "biceps"
+    ],
+    "recommended_weight": "moderate",
+    "experience_level": "beginner"
+},
+{
+    "id": 13,
+    "gif": "",
+    "name": "Dumbbell Kickback",
+    "instructions": ["Place one knee and hand on a bench for support.", "Hold a dumbbell in the opposite hand.", "Extend your arm straight back, then return to the starting position."],
+    "modified": "Tricep Extensions",
+    "equipments": ["dumbbell", "bench"],
+    "focus": [
+        "triceps"
+    ],
+    "recommended_weight": "light to moderate",
+    "experience_level": "beginner"
+},
+{
+    "id": 14,
+    "gif": "",
+    "name": "Zottman Curl",
+    "instructions": ["Stand with feet shoulder-width apart holding a dumbbell in each hand.", "Curl the weights with palms facing up.", "Rotate your wrists at the top so palms face down, then lower the weights back to the starting position."],
+    "modified": "Bicep Curl",
+    "equipments": ["dumbbells"],
+    "focus": [
+        "biceps",
+        "forearms"
+    ],
+    "recommended_weight": "moderate",
+    "experience_level": "intermediate"
+},
+{
+    "id": 15,
+    "gif": "",
+    "name": "Cable Rope Overhead Tricep Extension",
+    "instructions": ["Stand facing away from a cable machine with a rope attachment.", "Grab the rope with both hands and extend your arms overhead.", "Lower the rope behind your head by bending your elbows.", "Extend your arms back to the starting position."],
+    "modified": "Tricep Extensions",
+    "equipments": ["cable machine", "rope attachment"],
+    "focus": [
+        "triceps"
+    ],
+    "recommended_weight": "moderate",
+    "experience_level": "intermediate"
+},
+{
+    "id": 1,
+    "gif": "",
+    "name": "Pull-Up",
+    "instructions": ["Grab the pull-up bar with palms facing away from you.", "Pull your body up until your chin is above the bar.", "Lower yourself back to the starting position."],
+    "modified": "Assisted Pull-Up",
+    "equipments": ["pull-up bar"],
+    "focus": [
+        "upper back",
+        "biceps"
+    ],
+    "recommended_weight": "bodyweight",
+    "experience_level": "advanced"
+},
+{
+    "id": 2,
+    "gif": "",
+    "name": "Assisted Pull-Up",
+    "instructions": ["Use an assisted pull-up machine or resistance bands to support part of your body weight.", "Grab the pull-up bar with palms facing away from you.", "Pull your body up until your chin is above the bar.", "Lower yourself back to the starting position."],
+    "modified": "Pull-Up",
+    "equipments": ["pull-up bar", "assisted pull-up machine or resistance bands"],
+    "focus": [
+        "upper back",
+        "biceps"
+    ],
+    "recommended_weight": "assisted bodyweight",
+    "experience_level": "beginner"
+},
+{
+    "id": 3,
+    "gif": "",
+    "name": "Lat Pulldown",
+    "instructions": ["Sit at the lat pulldown machine and grab the bar with a wide grip.", "Pull the bar down to your chest, then slowly return to the starting position."],
+    "modified": "Pull-Up",
+    "equipments": ["lat pulldown machine"],
+    "focus": [
+        "lats",
+        "biceps"
+    ],
+    "recommended_weight": "moderate",
+    "experience_level": "all levels"
+},
+{
+    "id": 4,
+    "gif": "",
+    "name": "Barbell Row",
+    "instructions": ["Hold a barbell with a grip slightly wider than shoulder-width.", "Bend at the hips and knees, keeping your back straight.", "Pull the barbell to your lower chest, then lower it back to the starting position."],
+    "modified": "Dumbbell Row",
+    "equipments": ["barbell", "weight plates"],
+    "focus": [
+        "middle back",
+        "biceps"
+    ],
+    "recommended_weight": "heavy",
+    "experience_level": "intermediate"
+},
+{
+    "id": 5,
+    "gif": "",
+    "name": "Dumbbell Row",
+    "instructions": ["Place one knee and hand on a bench for support.", "Hold a dumbbell in the opposite hand.", "Pull the dumbbell to your hip, then lower it back to the starting position."],
+    "modified": "Barbell Row",
+    "equipments": ["dumbbell", "bench"],
+    "focus": [
+        "middle back",
+        "biceps"
+    ],
+    "recommended_weight": "moderate",
+    "experience_level": "beginner"
+},
+{
+    "id": 6,
+    "gif": "",
+    "name": "T-Bar Row",
+    "instructions": ["Position yourself with feet shoulder-width apart and knees slightly bent.", "Hold the T-bar handle with both hands.", "Pull the handle towards your lower chest, then lower it back to the starting position."],
+    "modified": "Barbell Row",
+    "equipments": ["T-bar row machine"],
+    "focus": [
+        "middle back",
+        "biceps"
+    ],
+    "recommended_weight": "heavy",
+    "experience_level": "intermediate"
+},
+{
+    "id": 7,
+    "gif": "",
+    "name": "Seated Cable Row",
+    "instructions": ["Sit at the cable row machine with feet braced against the footrests.", "Grab the handle with both hands.", "Pull the handle to your abdomen, then slowly return to the starting position."],
+    "modified": "Dumbbell Row",
+    "equipments": ["cable row machine"],
+    "focus": [
+        "middle back",
+        "biceps"
+    ],
+    "recommended_weight": "moderate",
+    "experience_level": "all levels"
+},
+{
+    "id": 8,
+    "gif": "",
+    "name": "Deadlift",
+    "instructions": ["Stand with feet hip-width apart and grip the barbell with hands just outside your knees.", "Lift the barbell by straightening your hips and knees, keeping your back straight.", "Lower the barbell back to the starting position."],
+    "modified": "Romanian Deadlift",
+    "equipments": ["barbell",        "weight plates"],
+    "focus": [
+        "lower back",
+        "glutes",
+        "hamstrings"
+    ],
+    "recommended_weight": "heavy",
+    "experience_level": "intermediate"
+},
+{
+    "id": 9,
+    "gif": "",
+    "name": "Romanian Deadlift",
+    "instructions": ["Stand with feet hip-width apart and hold a barbell with hands just outside your thighs.", "Lower the barbell by bending at the hips, keeping your back straight and knees slightly bent.", "Lift the barbell back to the starting position."],
+    "modified": "Deadlift",
+    "equipments": ["barbell", "weight plates"],
+    "focus": [
+        "lower back",
+        "glutes",
+        "hamstrings"
+    ],
+    "recommended_weight": "moderate",
+    "experience_level": "intermediate"
+},
+{
+    "id": 10,
+    "gif": "",
+    "name": "Single-Arm Dumbbell Row",
+    "instructions": ["Place one knee and hand on a bench for support.", "Hold a dumbbell in the opposite hand.", "Pull the dumbbell to your hip, then lower it back to the starting position."],
+    "modified": "Dumbbell Row",
+    "equipments": ["dumbbell", "bench"],
+    "focus": [
+        "middle back",
+        "biceps"
+    ],
+    "recommended_weight": "moderate",
+    "experience_level": "beginner"
+},
+{
+    "id": 11,
+    "gif": "",
+    "name": "Face Pull",
+    "instructions": ["Set the pulley to the upper position on a cable machine.", "Grab the rope attachment with both hands.", "Pull the rope towards your face, keeping your elbows high, then return to the starting position."],
+    "modified": "Seated Cable Row",
+    "equipments": ["cable machine", "rope attachment"],
+    "focus": [
+        "upper back",
+        "rear deltoids"
+    ],
+    "recommended_weight": "light to moderate",
+    "experience_level": "all levels"
+},
+{
+    "id": 12,
+    "gif": "",
+    "name": "Bent-Over Dumbbell Row",
+    "instructions": ["Stand with feet shoulder-width apart and hold a dumbbell in each hand.", "Bend at the hips and knees, keeping your back straight.", "Pull the dumbbells to your hips, then lower them back to the starting position."],
+    "modified": "Barbell Row",
+    "equipments": ["dumbbells"],
+    "focus": [
+        "middle back",
+        "biceps"
+    ],
+    "recommended_weight": "moderate",
+    "experience_level": "intermediate"
+},
+{
+    "id": 13,
+    "gif": "",
+    "name": "Inverted Row",
+    "instructions": ["Set a barbell in a rack at waist height.", "Lie underneath the bar and grab it with an overhand grip.", "Pull your chest to the bar, then lower yourself back to the starting position."],
+    "modified": "Pull-Up",
+    "equipments": ["barbell", "rack"],
+    "focus": [
+        "upper back",
+        "biceps"
+    ],
+    "recommended_weight": "bodyweight",
+    "experience_level": "beginner"
+},
+{
+    "id": 14,
+    "gif": "",
+    "name": "Hyperextension",
+    "instructions": ["Lie face down on a hyperextension bench with your ankles secured.", "Bend at the waist to lower your upper body, then raise it back to the starting position."],
+    "modified": "Romanian Deadlift",
+    "equipments": ["hyperextension bench"],
+    "focus": [
+        "lower back",
+        "glutes",
+        "hamstrings"
+    ],
+    "recommended_weight": "bodyweight",
+    "experience_level": "all levels"
+},
+{
+    "id": 1,
+    "gif": "",
+    "name": "Barbell Bench Press",
+    "instructions": ["Lie on a bench with feet flat on the ground.", "Lower the barbell to your chest, then push it back up to the starting position."],
+    "modified": "Dumbbell Bench Press",
+    "equipments": ["barbell", "weight plates", "bench"],
+    "focus": [
+        "chest",
+        "triceps"
+    ],
+    "recommended_weight": "heavy",
+    "experience_level": "intermediate"
+},
+{
+    "id": 2,
+    "gif": "",
+    "name": "Dumbbell Bench Press",
+    "instructions": ["Lie on a bench with feet flat on the ground.", "Lower the dumbbells to your chest, then push them back up to the starting position."],
+    "modified": "Barbell Bench Press",
+    "equipments": ["dumbbells", "bench"],
+    "focus": [
+        "chest",
+        "triceps"
+    ],
+    "recommended_weight": "moderate",
+    "experience_level": "beginner"
+},
+{
+    "id": 3,
+    "gif": "",
+    "name": "Incline Bench Press",
+    "instructions": ["Set the bench to an incline position.", "Lie on the bench with feet flat on the ground.", "Lower the barbell to your upper chest, then push it back up to the starting position."],
+    "modified": "Incline Dumbbell Press",
+    "equipments": ["barbell", "weight plates", "incline bench"],
+    "focus": [
+        "upper chest",
+        "triceps"
+    ],
+    "recommended_weight": "moderate",
+    "experience_level": "intermediate"
+},
+{
+    "id": 4,
+    "gif": "",
+    "name": "Incline Dumbbell Press",
+    "instructions": ["Set the bench to an incline position.", "Lie on the bench with feet flat on the ground.", "Lower the dumbbells to your upper chest, then push them back up to the starting position."],
+    "modified": "Incline Bench Press",
+    "equipments": ["dumbbells", "incline bench"],
+    "focus": [
+        "upper chest",
+        "triceps"
+    ],
+    "recommended_weight": "moderate",
+    "experience_level": "beginner"
+},
+{
+    "id": 5,
+    "gif": "",
+    "name": "Chest Fly",
+    "instructions": ["Lie on a bench with feet flat on the ground.", "Hold dumbbells above your chest with arms slightly bent.", "Lower the dumbbells out to the sides, then bring them back up to the starting position."],
+    "modified": "Cable Fly",
+    "equipments": ["dumbbells", "bench"],
+    "focus": [
+        "chest"
+    ],
+    "recommended_weight": "light",
+    "experience_level": "beginner"
+},
+{
+    "id": 6,
+    "gif": "",
+    "name": "Cable Fly",
+    "instructions": ["Stand in the middle of a cable machine with handles in each hand.", "Step forward to create tension on the cables.", "Bring the handles together in front of your chest, then return to the starting position."],
+    "modified": "Chest Fly",
+    "equipments": ["cable machine"],
+    "focus": [
+        "chest"
+    ],
+    "recommended_weight": "light",
+    "experience_level": "all levels"
+},
+{
+    "id": 7,
+    "gif": "",
+    "name": "Push-Up",
+    "instructions": ["Start in a plank position with hands slightly wider than shoulder-width apart.", "Lower your body until your chest nearly touches the floor, then push back up to the starting position."],
+    "modified": "Incline Push-Up",
+    "equipments": [],
+    "focus": [
+        "chest",
+        "triceps",
+        "shoulders"
+    ],
+    "recommended_weight": "bodyweight",
+    "experience_level": "beginner"
+},
+{
+    "id": 8,
+    "gif": "",
+    "name": "Incline Push-Up",
+    "instructions": ["Place your hands on an elevated surface, such as a bench or step.", "Lower your body until your chest nearly touches the surface, then push back up to the starting position."],
+    "modified": "Push-Up",
+    "equipments": ["bench"],
+    "focus": [
+        "upper chest",
+        "triceps",
+        "shoulders"
+    ],
+    "recommended_weight": "bodyweight",
+    "experience_level": "beginner"
+},
+{
+    "id": 9,
+    "gif": "",
+    "name": "Decline Bench Press",
+    "instructions": ["Set the bench to a decline position.", "Lie on the bench with feet secured.", "Lower the barbell to your lower chest, then push it back up to the starting position."],
+    "modified": "Decline Dumbbell Press",
+    "equipments": ["barbell", "weight plates", "decline bench"],
+    "focus": [
+        "lower chest",
+        "triceps"
+    ],
+    "recommended_weight": "moderate",
+    "experience_level": "intermediate"
+},
+{
+    "id": 10,
+    "gif": "",
+    "name": "Decline Dumbbell Press",
+    "instructions": ["Set the bench to a decline position.", "Lie on the bench with feet secured.", "Lower the dumbbells to your lower chest, then push them back up to the starting position."],
+    "modified": "Decline Bench Press",
+    "equipments": ["dumbbells", "decline bench"],
+    "focus": [
+        "lower chest",
+        "triceps"
+    ],
+    "recommended_weight": "moderate",
+    "experience_level": "beginner"
+},
+{
+    "id": 11,
+    "gif": "",
+    "name": "Pec Deck Machine",
+    "instructions": ["Sit on the machine with your back flat against the pad.", "Place your forearms on the pads with elbows at a 90-degree angle.", "Bring the pads together in front of your chest, then return to the starting position."],
+    "modified": "Chest Fly",
+    "equipments": ["pec deck machine"],
+    "focus": [
+        "chest"
+    ],
+    "recommended_weight": "light to moderate",
+    "experience_level": "all levels"
+},
+{
+    "id": 12,
+    "gif": "",
+    "name": "Chest Dip",
+    "instructions": ["Hold the parallel bars and lift your body up.", "Lean slightly forward and lower your body until your elbows are at a 90-degree angle.", "Push back up to the starting position."],
+    "modified": "Assisted Chest Dip",
+    "equipments": ["dip bars"],
+    "focus": [
+        "lower chest",
+        "triceps",
+        "shoulders"
+    ],
+    "recommended_weight": "bodyweight",
+    "experience_level": "advanced"
+},
+{
+    "id": 13,
+    "gif": "",
+    "name": "Assisted Chest Dip",
+    "instructions": ["Use an assisted dip machine or resistance bands to support part of your body weight.", "Hold the parallel bars and lift your body up.", "Lean slightly forward and lower your body until your elbows are at a 90-degree angle.", "Push back up to the starting position."],
+    "modified": "Chest Dip",
+    "equipments": ["dip bars", "assisted dip machine or resistance bands"],
+    "focus": [
+        "lower chest",
+        "triceps",
+        "shoulders"
+    ],
+    "recommended_weight": "assisted bodyweight",
+    "experience_level": "beginner"
+},
+{
+    "id": 14,
+    "gif": "",
+    "name": "Machine Chest Press",
+    "instructions": ["Sit on the machine with your back flat against the pad.", "Grip the handles and push them forward until your arms are fully extended.", "Slowly return to the starting position."],
+    "modified": "Barbell Bench Press",
+    "equipments": ["chest press machine"],
+    "focus": [
+        "chest",
+        "triceps"
+    ],
+    "recommended_weight": "moderate",
+    "experience_level": "all levels"
+},
+{
+    "id": 1,
+    "gif": "",
+    "name": "Plank",
+    "instructions": ["Start in a push-up position with your forearms on the ground.", "Keep your body in a straight line from head to heels.", "Hold this position for the desired amount of time."],
+    "modified": "Side Plank",
+    "equipments": ["none"],
+    "focus": [
+        "core",
+        "shoulders"
+    ],
+    "recommended_weight": "bodyweight",
+    "experience_level": "beginner"
+},
+{
+    "id": 2,
+    "gif": "",
+    "name": "Side Plank",
+    "instructions": ["Lie on your side with your forearm on the ground.", "Lift your hips to create a straight line from head to heels.", "Hold this position for the desired amount of time."],
+    "modified": "Plank",
+    "equipments": ["none"],
+    "focus": [
+        "core",
+        "obliques"
+    ],
+    "recommended_weight": "bodyweight",
+    "experience_level": "beginner"
+},
+{
+    "id": 3,
+    "gif": "",
+    "name": "Russian Twist",
+    "instructions": ["Sit on the ground with knees bent and feet flat.", "Lean back slightly and lift your feet off the ground.", "Hold a weight or medicine ball with both hands.", "Twist your torso to the right, then to the left to complete one rep."],
+    "modified": "Bicycle Crunch",
+    "equipments": ["medicine ball or weight"],
+    "focus": [
+        "core",
+        "obliques"
+    ],
+    "recommended_weight": "light to moderate",
+    "experience_level": "beginner"
+},
+{
+    "id": 4,
+    "gif": "",
+    "name": "Bicycle Crunch",
+    "instructions": ["Lie on your back with hands behind your head and legs lifted.", "Bring your right elbow to your left knee while extending your right leg.", "Switch sides, bringing your left elbow to your right knee."],
+    "modified": "Russian Twist",
+    "equipments": ["none"],
+    "focus": [
+        "core",
+        "obliques"
+    ],
+    "recommended_weight": "bodyweight",
+    "experience_level": "beginner"
+},
+{
+    "id": 5,
+    "gif": "",
+    "name": "Leg Raise",
+    "instructions": ["Lie on your back with legs straight and hands at your sides.", "Lift your legs towards the ceiling while keeping them straight.", "Lower your legs back to the starting position without touching the ground."],
+    "modified": "Hanging Leg Raise",
+    "equipments": ["none"],
+    "focus": [
+        "lower abs"
+    ],
+    "recommended_weight": "bodyweight",
+    "experience_level": "beginner"
+},
+{
+    "id": 6,
+    "gif": "",
+    "name": "Hanging Leg Raise",
+    "instructions": ["Hang from a pull-up bar with legs straight.", "Lift your legs towards the ceiling while keeping them straight.", "Lower your legs back to the starting position without swinging."],
+    "modified": "Leg Raise",
+    "equipments": ["pull-up bar"],
+    "focus": [
+        "lower abs"
+    ],
+    "recommended_weight": "bodyweight",
+    "experience_level": "intermediate"
+},
+{
+    "id": 7,
+    "gif": "",
+    "name": "Mountain Climbers",
+    "instructions": ["Start in a push-up position.", "Bring one knee towards your chest, then switch legs quickly.", "Continue alternating legs in a running motion."],
+    "modified": "Plank",
+    "equipments": ["none"],
+    "focus": [
+        "core",
+        "cardio"
+    ],
+    "recommended_weight": "bodyweight",
+    "experience_level": "beginner"
+},
+{
+    "id": 8,
+    "gif": "",
+    "name": "Ab Wheel Rollout",
+    "instructions": ["Kneel on the ground holding an ab wheel.", "Roll the wheel forward while keeping your core tight.", "Roll back to the starting position."],
+    "modified": "Plank",
+    "equipments": ["ab wheel"],
+    "focus": [
+        "core",
+        "upper body"
+    ],
+    "recommended_weight": "bodyweight",
+    "experience_level": "intermediate"
+},
+{
+    "id": 9,
+    "gif": "",
+    "name": "Sit-Up",
+    "instructions": ["Lie on your back with knees bent and feet flat on the ground.", "Place your hands behind your head or across your chest.", "Lift your upper body towards your knees.", "Lower your upper body back to the starting position."],
+    "modified": "Crunch",
+    "equipments": ["none"],
+    "focus": [
+        "core",
+        "upper abs"
+    ],
+    "recommended_weight": "bodyweight",
+    "experience_level": "beginner"
+},
+{
+    "id": 10,
+    "gif": "",
+    "name": "Crunch",
+    "instructions": ["Lie on your back with knees bent and feet flat on the ground.", "Place your hands behind your head or across your chest.", "Lift your shoulders off the ground towards your knees.", "Lower your shoulders back to the starting position."],
+    "modified": "Sit-Up",
+    "equipments": ["none"],
+    "focus": [
+        "core",
+        "upper abs"
+    ],
+    "recommended_weight": "bodyweight",
+    "experience_level": "beginner"
+},
+{
+    "id": 11,
+    "gif": "",
+    "name": "Flutter Kicks",
+    "instructions": ["Lie on your back with legs straight and hands at your sides.", "Lift your legs a few inches off the ground.", "Alternate kicking your legs up and down in a fluttering motion."],
+    "modified": "Leg Raise",
+    "equipments": ["none"],
+    "focus": [
+        "core",
+        "lower abs"
+    ],
+    "recommended_weight": "bodyweight",
+    "experience_level": "beginner"
+},
+{
+    "id": 12,
+    "gif": "",
+    "name": "V-Up",
+    "instructions": ["Lie on your back with legs straight and arms extended overhead.", "Lift your legs and upper body simultaneously to form a V shape.", "Lower your legs and upper body back to the starting position."],
+    "modified": "Sit-Up",
+    "equipments": ["none"],
+    "focus": [
+        "core",
+        "upper abs",
+        "lower abs"
+    ],
+    "recommended_weight": "bodyweight",
+    "experience_level": "intermediate"
+},
+{
+    "id": 13,
+    "gif": "",
+    "name": "Toe Touches",
+    "instructions": ["Lie on your back with legs straight and arms extended overhead.", "Lift your legs towards the ceiling.", "Reach your hands towards your toes, lifting your shoulders off the ground.", "Lower your shoulders back to the starting position."],
+    "modified": "Crunch",
+    "equipments": ["none"],
+    "focus": [
+        "core",
+        "upper abs"
+    ],
+    "recommended_weight": "bodyweight",
+    "experience_level": "beginner"
+},
+{
+    "id": 14,
+    "gif": "",
+    "name": "Hanging Knee Raise",
+    "instructions": ["Hang from a pull-up bar with legs straight.", "Lift your knees towards your chest.", "Lower your knees back to the starting position without swinging."],
+    "modified": "Hanging Leg Raise",
+    "equipments": ["pull-up bar"],
+    "focus": [
+        "core",
+        "lower abs"
+    ],
+    "recommended_weight": "bodyweight",
+    "experience_level": "intermediate"
+},
+{
+    "id": 15,
+    "gif": "",
+    "name": "Cable Woodchopper",
+    "instructions": ["Stand next to a cable machine with the handle set to the highest position.", "Grab the handle with both hands.", "Pull the handle down and across your body in a chopping motion.", "Return to the starting position."],
+    "modified": "Russian Twist",
+    "equipments": ["cable machine", "handle attachment"],
+    "focus": [
+        "core",
+        "obliques"
+    ],
+    "recommended_weight": "moderate",
+    "experience_level": "intermediate"
+},{
+    "id": 1,
+    "gif": "",
+    "name": "Squat",
+    "instructions": ["Stand with feet shoulder-width apart.", "Lower your body by bending your knees and hips.", "Push through your heels to return to the starting position."],
+    "modified": "Goblet Squat",
+    "equipments": ["barbell", "weight plates"],
+    "focus": [
+        "quads",
+        "glutes",
+        "hamstrings"
+    ],
+    "recommended_weight": "heavy",
+    "experience_level": "intermediate"
+},
+{
+    "id": 2,
+    "gif": "",
+    "name": "Goblet Squat",
+    "instructions": ["Stand with feet shoulder-width apart holding a dumbbell or kettlebell close to your chest.", "Lower your body by bending your knees and hips.", "Push through your heels to return to the starting position."],
+    "modified": "Squat",
+    "equipments": ["dumbbell or kettlebell"],
+    "focus": [
+        "quads",
+        "glutes",
+        "hamstrings"
+    ],
+    "recommended_weight": "moderate",
+    "experience_level": "beginner"
+},
+{
+    "id": 3,
+    "gif": "",
+    "name": "Lunge",
+    "instructions": ["Stand with feet together.", "Step forward with one foot and lower your body until both knees are at 90-degree angles.", "Push through your front heel to return to the starting position."],
+    "modified": "Walking Lunge",
+    "equipments": ["dumbbells"],
+    "focus": [
+        "quads",
+        "glutes",
+        "hamstrings"
+    ],
+    "recommended_weight": "moderate",
+    "experience_level": "beginner"
+},
+{
+    "id": 4,
+    "gif": "",
+    "name": "Walking Lunge",
+    "instructions": ["Stand with feet together holding a dumbbell in each hand.", "Step forward with one foot and lower your body until both knees are at 90-degree angles.", "Push through your front heel to step forward with the other foot."],
+    "modified": "Lunge",
+    "equipments": ["dumbbells"],
+    "focus": [
+        "quads",
+        "glutes",
+        "hamstrings"
+    ],
+    "recommended_weight": "moderate",
+    "experience_level": "intermediate"
+},
+{
+    "id": 5,
+    "gif": "",
+    "name": "Leg Press",
+    "instructions": ["Sit on the leg press machine with feet shoulder-width apart on the platform.", "Lower the platform by bending your knees.", "Push through your heels to return to the starting position."],
+    "modified": "Squat",
+    "equipments": ["leg press machine"],
+    "focus": [
+        "quads",
+        "glutes",
+        "hamstrings"
+    ],
+    "recommended_weight": "heavy",
+    "experience_level": "intermediate"
+},
+{
+    "id": 6,
+    "gif": "",
+    "name": "Leg Curl",
+    "instructions": ["Lie face down on the leg curl machine with your ankles under the pads.", "Curl your legs up towards your glutes.", "Slowly lower your legs back to the starting position."],
+    "modified": "Seated Leg Curl",
+    "equipments": ["leg curl machine"],
+    "focus": [
+        "hamstrings"
+    ],
+    "recommended_weight": "moderate",
+    "experience_level": "beginner"
+},
+{
+    "id": 7,
+    "gif": "",
+    "name": "Seated Leg Curl",
+    "instructions": ["Sit on the leg curl machine with your ankles under the pads.", "Curl your legs down towards the floor.", "Slowly return your legs to the starting position."],
+    "modified": "Leg Curl",
+    "equipments": ["seated leg curl machine"],
+    "focus": [
+        "hamstrings"
+    ],
+    "recommended_weight": "moderate",
+    "experience_level": "beginner"
+},
+{
+    "id": 8,
+    "gif": "",
+    "name": "Leg Extension",
+    "instructions": ["Sit on the leg extension machine with your ankles under the pads.", "Extend your legs until they are straight.", "Slowly lower your legs back to the starting position."],
+    "modified": "Squat",
+    "equipments": ["leg extension machine"],
+    "focus": [
+        "quads"
+    ],
+    "recommended_weight": "moderate",
+    "experience_level": "beginner"
+},
+{
+    "id": 9,
+    "gif": "",
+    "name": "Romanian Deadlift",
+    "instructions": ["Stand with feet hip-width apart holding a barbell with hands just outside your thighs.", "Lower the barbell by bending at the hips, keeping your back straight and knees slightly bent.", "Lift the barbell back to the starting position."],
+    "modified": "Deadlift",
+    "equipments": ["barbell", "weight plates"],
+    "focus": [
+        "hamstrings",
+        "glutes",
+        "lower back"
+    ],
+    "recommended_weight": "moderate",
+    "experience_level": "intermediate"
+},
+{
+    "id": 10,
+    "gif": "",
+    "name": "Calf Raise",
+    "instructions": ["Stand with feet shoulder-width apart.", "Raise your heels as high as possible, then lower them back to the starting position."],
+    "modified": "Seated Calf Raise",
+    "equipments": ["none"],
+    "focus": [
+        "calves"
+    ],
+    "recommended_weight": "bodyweight",
+    "experience_level": "beginner"
+},
+{
+    "id": 11,
+    "gif": "",
+    "name": "Seated Calf Raise",
+    "instructions": ["Sit on the calf raise machine with the balls of your feet on the platform.", "Raise your heels as high as possible, then lower them back to the starting position."],
+    "modified": "Calf Raise",
+    "equipments": ["seated calf raise machine"],
+    "focus": [
+        "calves"
+    ],
+    "recommended_weight": "moderate",
+    "experience_level": "beginner"
+},
+{
+    "id": 12,
+    "gif": "",
+    "name": "Bulgarian Split Squat",
+    "instructions": ["Stand a few feet in front of a bench.", "Place one foot on the bench behind you.", "Lower your body by bending your front knee.", "Push through your front heel to return to the starting position."],
+    "modified": "Lunge",
+    "equipments": ["bench", "dumbbells"],
+    "focus": [
+        "quads",
+        "glutes",
+        "hamstrings"
+    ],
+    "recommended_weight": "moderate",
+    "experience_level": "intermediate"
+},
+{
+    "id": 13,
+    "gif": "",
+    "name": "Step-Up",
+    "instructions": ["Stand in front of a bench or step holding a dumbbell in each hand.", "Step onto the bench with one foot.", "Push through your front heel to lift your body up.", "Step back down with the same foot."],
+    "modified": "Lunge",
+    "equipments": ["bench or step", "dumbbells"],
+    "focus": [
+        "quads",
+        "glutes",
+        "hamstrings"
+    ],
+    "recommended_weight": "moderate",
+    "experience_level": "beginner"
+},
+{
+    "id": 14,
+    "gif": "",
+    "name": "Glute Bridge",
+    "instructions": ["Lie on your back with knees bent and feet flat on the ground.", "Lift your hips towards the ceiling by squeezing your glutes.", "Lower your hips back to the starting position."],
+    "modified": "Hip Thrust",
+    "equipments": ["none"],
+    "focus": [
+        "glutes",
+        "hamstrings",
+        "lower back"
+    ],
+    "recommended_weight": "bodyweight",
+    "experience_level": "beginner"
+},
+{
+    "id": 15,
+    "gif": "",
+    "name": "Hip Thrust",
+    "instructions": ["Sit on the ground with your upper back against a bench and a barbell over your hips.", "Lift your hips towards the ceiling by squeezing your glutes.", "Lower your hips back to the starting position."],
+    "modified": "Glute Bridge",
+    "equipments": ["bench", "barbell", "weight plates"],
+    "focus": [
+        "glutes",
+        "hamstrings",
+        "lower back"
+    ],
+    "recommended_weight": "heavy",
+    "experience_level": "intermediate"
+},
+{
+    "id": 1,
+    "gif": "",
+    "name": "Overhead Press",
+    "instructions": ["Stand with feet shoulder-width apart holding a barbell at shoulder height.", "Press the barbell overhead until your arms are fully extended.", "Lower the barbell back to shoulder height."],
+    "modified": "Dumbbell Shoulder Press",
+    "equipments": ["barbell", "weight plates"],
+    "focus": [
+        "shoulders",
+        "triceps"
+    ],
+    "recommended_weight": "heavy",
+    "experience_level": "intermediate"
+},
+{
+    "id": 2,
+    "gif": "",
+    "name": "Dumbbell Shoulder Press",
+    "instructions": ["Sit on a bench with back support holding a dumbbell in each hand at shoulder height.", "Press the dumbbells overhead until your arms are fully extended.", "Lower the dumbbells back to shoulder height."],
+    "modified": "Overhead Press",
+    "equipments": ["dumbbells", "bench"],
+    "focus": [
+        "shoulders",
+        "triceps"
+    ],
+    "recommended_weight": "moderate",
+    "experience_level": "beginner"
+},
+{
+    "id": 3,
+    "gif": "",
+    "name": "Lateral Raise",
+    "instructions": ["Stand with feet shoulder-width apart holding a dumbbell in each hand at your sides.", "Raise the dumbbells out to the sides until they are at shoulder height.", "Lower the dumbbells back to your sides."],
+    "modified": "Cable Lateral Raise",
+    "equipments": ["dumbbells"],
+    "focus": [
+        "shoulders"
+    ],
+    "recommended_weight": "light to moderate",
+    "experience_level": "beginner"
+},
+{
+    "id": 4,
+    "gif": "",
+    "name": "Front Raise",
+    "instructions": ["Stand with feet shoulder-width apart holding a dumbbell in each hand at your sides.", "Raise the dumbbells in front of you until they are at shoulder height.", "Lower the dumbbells back to your sides."],
+    "modified": "Cable Front Raise",
+    "equipments": ["dumbbells"],
+    "focus": [
+        "shoulders"
+    ],
+    "recommended_weight": "light to moderate",
+    "experience_level": "beginner"
+},
+{
+    "id": 5,
+    "gif": "",
+    "name": "Rear Delt Fly",
+    "instructions": ["Stand with feet shoulder-width apart holding a dumbbell in each hand.", "Bend at the hips and knees, keeping your back straight.", "Raise the dumbbells out to the sides until they are at shoulder height.", "Lower the dumbbells back to the starting position."],
+    "modified": "Cable Rear Delt Fly",
+    "equipments": ["dumbbells"],
+    "focus": [
+        "rear deltoids"
+    ],
+    "recommended_weight": "light to moderate",
+    "experience_level": "beginner"
+},
+{
+    "id": 6,
+    "gif": "",
+    "name": "Arnold Press",
+    "instructions": ["Sit on a bench with back support holding a dumbbell in each hand at shoulder height with palms facing you.", "Rotate your palms away from you as you press the dumbbells overhead.", "Lower the dumbbells back to shoulder height with palms facing you."],
+    "modified": "Dumbbell Shoulder Press",
+    "equipments": ["dumbbells", "bench"],
+    "focus": [
+        "shoulders",
+        "triceps"
+    ],
+    "recommended_weight": "moderate",
+    "experience_level": "intermediate"
+},
+{
+    "id": 7,
+    "gif": "",
+    "name": "Upright Row",
+    "instructions": ["Stand with feet shoulder-width apart holding a barbell with an overhand grip.", "Pull the barbell to your chin, keeping your elbows high.", "Lower the barbell back to the starting position."],
+    "modified": "Dumbbell Upright Row",
+    "equipments": ["barbell", "weight plates"],
+    "focus": [
+        "shoulders",
+        "traps"
+    ],
+    "recommended_weight": "moderate",
+    "experience_level": "intermediate"
+},
+{
+    "id": 8,
+    "gif": "",
+    "name": "Dumbbell Upright Row",
+    "instructions": ["Stand with feet shoulder-width apart holding a dumbbell in each hand.", "Pull the dumbbells to your chin, keeping your elbows high.", "Lower the dumbbells back to the starting position."],
+    "modified":         "Upright Row",
+    "equipments": ["dumbbells"],
+    "focus": [
+        "shoulders",
+        "traps"
+    ],
+    "recommended_weight": "moderate",
+    "experience_level": "beginner"
+},
+{
+    "id": 9,
+    "gif": "",
+    "name": "Cable Lateral Raise",
+    "instructions": ["Stand next to a cable machine with the handle set to the lowest position.", "Grab the handle with the hand farthest from the machine.", "Raise the handle out to the side until it is at shoulder height.", "Lower the handle back to the starting position."],
+    "modified": "Lateral Raise",
+    "equipments": ["cable machine", "handle attachment"],
+    "focus": [
+        "shoulders"
+    ],
+    "recommended_weight": "light to moderate",
+    "experience_level": "intermediate"
+},
+{
+    "id": 10,
+    "gif": "",
+    "name": "Cable Front Raise",
+    "instructions": ["Stand facing away from a cable machine with the handle set to the lowest position.", "Grab the handle with one hand.", "Raise the handle in front of you until it is at shoulder height.", "Lower the handle back to the starting position."],
+    "modified": "Front Raise",
+    "equipments": ["cable machine", "handle attachment"],
+    "focus": [
+        "shoulders"
+    ],
+    "recommended_weight": "light to moderate",
+    "experience_level": "intermediate"
+},
+{
+    "id": 11,
+    "gif": "",
+    "name": "Cable Rear Delt Fly",
+    "instructions": ["Stand facing a cable machine with the handles set to the lowest position.", "Grab the handles with both hands and step back to create tension.", "Raise the handles out to the sides until they are at shoulder height.", "Lower the handles back to the starting position."],
+    "modified": "Rear Delt Fly",
+    "equipments": ["cable machine", "handles"],
+    "focus": [
+        "rear deltoids"
+    ],
+    "recommended_weight": "light to moderate",
+    "experience_level": "intermediate"
+},
+{
+    "id": 12,
+    "gif": "",
+    "name": "Face Pull",
+    "instructions": ["Set the pulley to the upper position on a cable machine.", "Grab the rope attachment with both hands.", "Pull the rope towards your face, keeping your elbows high, then return to the starting position."],
+    "modified": "Seated Cable Row",
+    "equipments": ["cable machine", "rope attachment"],
+    "focus": [
+        "upper back",
+        "rear deltoids"
+    ],
+    "recommended_weight": "light to moderate",
+    "experience_level": "all levels"
+},
+{
+    "id": 13,
+    "gif": "",
+    "name": "Standing Military Press",
+    "instructions": ["Stand with feet shoulder-width apart holding a barbell at shoulder height.", "Press the barbell overhead until your arms are fully extended.", "Lower the barbell back to shoulder height."],
+    "modified": "Overhead Press",
+    "equipments": ["barbell", "weight plates"],
+    "focus": [
+        "shoulders",
+        "triceps"
+    ],
+    "recommended_weight": "heavy",
+    "experience_level": "intermediate"
+},
+{
+    "id": 14,
+    "gif": "",
+    "name": "Dumbbell Shrug",
+    "instructions": ["Stand with feet shoulder-width apart holding a dumbbell in each hand at your sides.", "Raise your shoulders as high as possible, then lower them back to the starting position."],
+    "modified": "Barbell Shrug",
+    "equipments": ["dumbbells"],
+    "focus": [
+        "traps"
+    ],
+    "recommended_weight": "moderate",
+    "experience_level": "beginner"
+},
+{
+    "id": 15,
+    "gif": "",
+    "name": "Barbell Shrug",
+    "instructions": ["Stand with feet shoulder-width apart holding a barbell with an overhand grip.", "Raise your shoulders as high as possible, then lower them back to the starting position."],
+    "modified": "Dumbbell Shrug",
+    "equipments": ["barbell", "weight plates"],
+    "focus": [
+        "traps"
+    ],
+    "recommended_weight": "moderate",
+    "experience_level": "intermediate"
+}
+]

@@ -1,0 +1,9 @@
+{
+    "chest": ["chest", "upper chest", "lower chest"],
+    "back": ["upper back", "middle back", "lower back", "lats"],
+    "shoulders": ["shoulders", "rear deltoids"],
+    "biceps": ["biceps"],
+    "triceps": ["triceps"],
+    "legs": ["quads", "hamstrings", "calves", "glutes"],
+    "core": ["core", "upper abs", "lower abs", "obliques"]
+}
