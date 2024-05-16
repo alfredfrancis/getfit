@@ -1,15 +1,16 @@
 {
   "files": {
     "main.css": "/getfit/static/css/main.d7d16a15.css",
-    "main.js": "/getfit/static/js/main.4103cdcc.js",
+    "main.js": "/getfit/static/js/main.165806c4.js",
     "static/js/453.d06c2c25.chunk.js": "/getfit/static/js/453.d06c2c25.chunk.js",
+    "service-worker.js": "/getfit/service-worker.js",
     "index.html": "/getfit/index.html",
     "main.d7d16a15.css.map": "/getfit/static/css/main.d7d16a15.css.map",
-    "main.4103cdcc.js.map": "/getfit/static/js/main.4103cdcc.js.map",
+    "main.165806c4.js.map": "/getfit/static/js/main.165806c4.js.map",
     "453.d06c2c25.chunk.js.map": "/getfit/static/js/453.d06c2c25.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d7d16a15.css",
-    "static/js/main.4103cdcc.js"
+    "static/js/main.165806c4.js"
   ]
 }
